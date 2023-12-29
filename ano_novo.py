@@ -4,8 +4,9 @@ import random
 
 def mensagens_2024():
     mensagens = [
-        "Engenharia de requisitos é obrigatória para o sucesso do projeto!",
-        "Engenharia de software é o método ciêntifico para o desenvolvimento de sistemas",
+        "Eng. de requisitos é obrigatória para o sucesso do projeto!",
+        "Eng. de software é o método ciêntifico para seu sistema de apoio à decisão!",
+        "BI e Ciência de dados são sistemas de apoio à decisão!",
         "Evite gambiarras nos seus projetos!",
         "Estude sistemas de apoio à decisão!",
         "Lembre-se da garantia da qualidade!",
@@ -23,5 +24,5 @@ def mensagens_2024():
     for mensagem in mensagens:
         print(mensagem)
 
-# Chamando a função para exibir as mensagens de Ano Novo
+#Chamando a função par aexibir mensagens
 mensagens_2024()
